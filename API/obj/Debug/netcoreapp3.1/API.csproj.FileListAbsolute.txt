@@ -1,6 +1,5 @@
 C:\Programming\DatingApp\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Programming\DatingApp\API\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Programming\DatingApp\API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Programming\DatingApp\API\bin\Debug\netcoreapp3.1\API.exe
 C:\Programming\DatingApp\API\bin\Debug\netcoreapp3.1\API.deps.json
 C:\Programming\DatingApp\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
@@ -61,3 +60,8 @@ C:\Programming\DatingApp\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCo
 C:\Programming\DatingApp\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
 C:\Programming\DatingApp\api\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
 C:\Programming\DatingApp\api\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Programming\DatingApp\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Programming\DatingApp\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Programming\DatingApp\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Programming\DatingApp\api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Programming\DatingApp\api\obj\Debug\netcoreapp3.1\scopedcss\bundle\API.styles.css
